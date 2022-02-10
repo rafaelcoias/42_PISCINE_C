@@ -1,0 +1,6 @@
+Credentials cache: API:4B38897A-5D1A-43E3-A95C-6CC68EDC35C1
+        Principal: rade-sar@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep  6 09:05:22 2021  Sep  6 19:05:22 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Sep  6 09:05:24 2021  Sep  6 19:05:22 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
